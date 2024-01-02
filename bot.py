@@ -7,11 +7,11 @@ bot = Client(
     "mo",
     api_id=21016353,
     api_hash="99765dcc8db939e7c8049c034cc9f3fe",
-    bot_token="6513047441:AAFR42f-VzjMHDLuqmLKx619vbSGRypmWCk",
+    bot_token="6366625304:AAG3Cdt2nBDo6XY5-AhqmlGdTF-4hcN3NVc",
     plugins=dict(root="MZombie")
     )
 
-DEVS = ["BENN_DEV"]
+DEVS = ["xsa_v"]
 
 bot_id = bot.bot_token.split(":")[0]
 
